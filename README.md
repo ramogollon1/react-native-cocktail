@@ -5,7 +5,6 @@
 #### 1. Install cocoapods
 - `sudo gem install cocoapods`
 
-
 #### 2. Run pods inside folder ios
 - `cd ios && pod install`
 
@@ -29,6 +28,7 @@
 
 - `npm install or npm i`
 
+- `npx react-native start` (open metro in other terminal)
 ### Run on Androind
 
 - `npm run android`
