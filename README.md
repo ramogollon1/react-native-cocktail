@@ -12,17 +12,24 @@
 
 ### Content
 
-* ios
-* android
-* src
-  * app
-    * assets
-    * components
-    * screens
-  * constants
-  * redux
-    * search
-  * services
+```
+├── ios
+├── android
+├── src
+  ├── app
+    ├── assets
+    ├── components
+      ├── GradientContainer
+      ├── Item
+      ├── ListItem
+    ├── screens
+      ├── Home
+      ├── Search
+  ├── constants
+  ├── redux
+    ├── search
+  ├── services
+```
 
 ### Install dependencies
 
