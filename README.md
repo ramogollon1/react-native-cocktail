@@ -47,6 +47,17 @@
 - [react-redux](https://react-redux.js.org/introduction/getting-started)
 - [typescript](https://reactnative.dev/docs/typescript)
 
+## Demos
+
+- IOS
+
+![IOS home](https://github.com/ramogollon1/react-native-cocktail/blob/master/src/app/assets/ios-screen-home.png)
+
+- Android
+
+![android home](https://github.com/ramogollon1/react-native-cocktail/blob/master/src/app/assets/android-screen-home.png)
+
+
 ### How to start to contributing
 
 1. Create your feature branch (git checkout -b [my-new-feature]).
